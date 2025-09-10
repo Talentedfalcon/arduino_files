@@ -2,7 +2,7 @@
 - Uses a passive buzzer along with the `tone()` function in arduino to play a sheet 
 
 ### Circuit Diagram:
-- 
+- <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/f713aadc-f37a-4f60-8fae-720dfea8fba0" />
 
 ### Usage:
 - Copy a music sheet _(only sheets which don't have RH/LH)_ from [Piano Letter Notes](https://pianoletternotes.blogspot.com/) into ___sheet.txt___
